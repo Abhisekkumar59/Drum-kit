@@ -1,2 +1,2 @@
 # Drum-kit
-Click to view this project
+https://abhisekkumar59.github.io/Drum-kit/
